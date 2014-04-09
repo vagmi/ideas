@@ -25,7 +25,7 @@ run on a Mac/Linux. It will be able to store the notes written in Markdown and p
 will also support identifying a local dropbox folder and writing the encrypted form of the documents to dropbox
 for backup.
 
-### MVP 2 - Collaboration (HushedNote Cloud):
+### MVP 2 - Collaboration (HushedNote Cloud)
 
 To collaborate with other users, we will build a public key exchange a bit like keybase.io but only using email. The
 user can associate a public key with an email address. We an verify the email address from the server end and once
